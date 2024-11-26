@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "antd-iconfont": "^3.0.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.8.1",
     "element-ui": "^2.14.1",
     "less": "^2.7.3",
